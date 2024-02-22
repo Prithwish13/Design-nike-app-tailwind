@@ -1,8 +1,10 @@
+import Collapsible from "../components/CollapsibleCard"
 
 const PopularProducts = () => {
   return (
     <div>
-      Popular Products
+      Popular 
+      <Collapsible/>
     </div>
   )
 }
