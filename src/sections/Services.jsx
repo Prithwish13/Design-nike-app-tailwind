@@ -1,8 +1,9 @@
+import Login from "../components/Login"
 
 const Services = () => {
   return (
     <div>
-      Services
+      <Login/>
     </div>
   )
 }
